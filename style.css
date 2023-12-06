@@ -4,3 +4,26 @@
     width: 160px;
     margin-top: 20px;
 }
+#menu h3{
+    font-size: 24px;
+    text-align: center;
+    text-transform: capitalize;
+}
+#menu ul{
+    list-style-type: none;
+}
+#menu ul li{
+    font-size: 21px;
+}
+#menu a, #menu a:link, #menu a:visited{
+    color: #900;
+    text-decoration: none;
+}
+#menu a:hover{
+    font-weight: bold;
+    color: #f33;
+}
+#menu ul li#aktiv a{
+    color: #f66;
+    font-weight: bold;
+}
