@@ -5,5 +5,12 @@
 	<title>Hotel<title>
 </head>
 <body>
+<ul>
+            <li id="aktiv"><a href="index.html">Rólunk</a></li>
+            <li><a href="szobak.html">Szobák</a></li>
+            <li><a href="szolg.html">Szolgáltatások</a></li>
+            <li><a href="kapcsolat.html">Kapcsolat</a></li>
+            <li><a href="foglalas.html">Foglalás</a></li>
+        </ul>
 </body>
 </html>
