@@ -1,1 +1,6 @@
-a
+#menu{
+    font-family: 'Times New Roman',
+    float: left;
+    width: 160px;
+    margin-top: 20px;
+}
