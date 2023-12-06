@@ -27,3 +27,20 @@
     color: #f66;
     font-weight: bold;
 }
+#fejlec{
+    font-family: 'Flavors', cursive;
+    height: 50px;
+    background-color: #eee;
+}
+#fejlec h1{
+    font-size: 36px;
+    float: left;
+    padding: 0 10px;
+    margin: 0 40px 0 0;
+}
+#fejlec h2{
+    font-size: 18px;
+    clear: right;
+    margin: 0;
+    padding-top: 20px;
+}
